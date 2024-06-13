@@ -27,10 +27,10 @@ Click on _posts folder in the duplicated tab
 
 * Copy and paste this into your new file
  
-    ---
+    --&mdash;
     layout: post
     title:  "My First Post"
-    ---
+    --&mdash;
 
 * Then Introduce yourself
 
