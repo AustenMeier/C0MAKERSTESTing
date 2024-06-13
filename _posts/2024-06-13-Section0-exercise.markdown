@@ -26,14 +26,11 @@ Click on _posts folder in the duplicated tab
    2024-06-13-Section0-myFirstPost.markdown
 
 * Copy and paste this into your new file
- 
-    &mdash;&mdash;&mdash;
+      ---
+  layout: post
 
-    layout: post
-
-    title:  "My First Post"
-
-    &mdash;&mdash;&mdash;
+  title:  "My First Post"
+      ---
 
 * Then Introduce yourself
 
