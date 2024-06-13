@@ -3,7 +3,7 @@ layout: post
 title:  "Welcome to Section 3!"
 ---
 
-## Exercise: Using Semantic HTML
+## Create a Formatted Web Page
 
 ### Create a new posts ending with ".html" inside of the new file create an HTML document that includes the following elements:
 
