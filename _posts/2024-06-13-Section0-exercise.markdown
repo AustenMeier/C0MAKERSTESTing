@@ -54,7 +54,7 @@ Click on _posts folder in the duplicated tab
  * Under settings go to pages on the left side of the screen
  * Click on the drop down that says "none"
  * Then select your main branch("main")
- * and click save
+ * Click save
  * Click on actions on the top of the screen
  * The click pages build and deployment
  * Wait for the page to build and deploy
