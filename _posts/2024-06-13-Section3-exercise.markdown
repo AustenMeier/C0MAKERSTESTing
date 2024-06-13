@@ -12,4 +12,4 @@ title:  "Welcome to Section 3!"
 * A table with a header, body, and footer.
 * Use a header with navigation links, a main section, and a footer from Sections 1 and 2.
 
-### Then delete this post see 2024-06-11-Section1-exercise for deleting posts
+### Then delete this post(see 2024-06-11-Section1-exercise for deleting posts)
