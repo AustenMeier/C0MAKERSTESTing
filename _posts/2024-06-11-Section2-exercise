@@ -1,12 +1,11 @@
 ---
 layout: post
 title:  "Welcome to Section 2!"
-date:   2024-05-24 22:36:56 -0500
 ---
 
- ## Exercise: Using Semantic HTML
+## Exercise: Using Semantic HTML
 
-### Create an HTML document that includes the following elements using semantic HTML tags:
+### Create a new posts ending with ".html" inside of the new file create a HTML document that includes the following elements using semantic HTML tags:
 
 A <header> with a title and navigation links.
 A <main> section containing an <article> with a heading and a paragraph.
