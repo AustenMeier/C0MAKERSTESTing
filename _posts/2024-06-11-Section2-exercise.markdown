@@ -13,4 +13,4 @@ title:  "Welcome to Section 2!"
 * An &lt;aside> with related content.
 * A &lt;footer> with copyright information.
 
-### Then delete this post see 2024-06-11-Section1-exercise for deleting posts
+### Then delete this post(see 2024-06-11-Section1-exercise for deleting posts)
